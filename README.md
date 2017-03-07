@@ -10,7 +10,7 @@ UISearchController和UILocalizedCollection的使用Demo
  
  
  ####效果图：
- ![筛选效果图1](https://github.com/MisterZhouZhou/UISearchControllerAndUILocalizedCollection/imgs/show2.png)
+ ![筛选效果图1](https://github.com/MisterZhouZhou/UISearchControllerAndUILocalizedCollection/blob/master/imgs/show2.gif)
  <br/>
  <br/>
  <br/>
